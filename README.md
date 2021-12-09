@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GakTheBeginner
+- 👀 I’m interested in data analytics (especially in hospitality or HR related area)
+- 🌱 I’m currently learning statistics, SQL, Python, BI tools(Tableau, Power BI)
+- 💞️ I’m looking for someone to give me some advice on what I am showing here
+- 📫 You can reach me on LinkedIn
